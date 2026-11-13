@@ -2,7 +2,7 @@
 
 ## Hello! I'm Reks 👋
 
-Hi! My name is **[Your Name]**, and I am a student who is currently learning about technology and programming. I enjoy exploring new things, learning new skills, and improving myself.
+Hi! My name is **Sam Cedrick Garcia**, and I am a student who is currently learning about technology and programming. I enjoy exploring new things, learning new skills, and improving myself.
 
 ### A Little About Me
 - **Name:** Sam Cedrick Garcia
